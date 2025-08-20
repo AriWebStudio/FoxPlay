@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": "u1a9f8c3", 
+    "username": "AriFox",
+    "email": "ari@example.com",
+    "password": "senha123", 
+    "activity": {
+      "songsPlayed": ["s1x2y3", "s4z5w6"],
+      "playlistsAccessed": ["p1a2b3"]
+    }
+  },
+  {
+    "id": "u2b8d7e4",
+    "username": "LunaSky",
+    "email": "luna@example.com",
+    "password": "123senha",
+    "activity": {
+      "songsPlayed": ["s1x2y3", "s7v8u9"],
+      "playlistsAccessed": ["p2b3c4", "p3c4d5"]
+    }
+  }
+]
